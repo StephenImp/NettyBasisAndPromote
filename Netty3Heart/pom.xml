@@ -9,9 +9,9 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>netty5</artifactId>
+    <artifactId>netty3heart</artifactId>
 
-    <name>netty5</name>
+    <name>netty3heart</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -28,10 +28,11 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/io.netty/netty -->
         <dependency>
             <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
-            <version>5.0.0.Alpha2</version>
+            <artifactId>netty</artifactId>
+            <version>3.10.5.Final</version>
         </dependency>
     </dependencies>
 

@@ -11,6 +11,9 @@
   <modules>
     <module>HelloWorldNetty</module>
     <module>Netty5</module>
+      <module>Netty3Heart</module>
+      <module>Netty5Heart</module>
+      <module>Protocol</module>
   </modules>
 
   <name>netty</name>
@@ -29,12 +32,6 @@
       <artifactId>junit</artifactId>
       <version>4.11</version>
       <scope>test</scope>
-    </dependency>
-
-    <dependency>
-      <groupId>io.netty</groupId>
-      <artifactId>netty-all</artifactId>
-      <version>5.0.0.Alpha2</version>
     </dependency>
 
   </dependencies>

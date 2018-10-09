@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloWorldNetty/HelloWorldNetty.iml" filepath="$PROJECT_DIR$/HelloWorldNetty/HelloWorldNetty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty3Heart/Netty3Heart.iml" filepath="$PROJECT_DIR$/Netty3Heart/Netty3Heart.iml" />
       <module fileurl="file://$PROJECT_DIR$/Netty5/Netty5.iml" filepath="$PROJECT_DIR$/Netty5/Netty5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netty5Heart/Netty5Heart.iml" filepath="$PROJECT_DIR$/Netty5Heart/Netty5Heart.iml" />
       <module fileurl="file://$PROJECT_DIR$/NettyBasisAndPromote.iml" filepath="$PROJECT_DIR$/NettyBasisAndPromote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Protocol/Protocol.iml" filepath="$PROJECT_DIR$/Protocol/Protocol.iml" />
     </modules>
   </component>
 </project>

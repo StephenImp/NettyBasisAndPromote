@@ -7,13 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HelloWorldNetty" />
+        <module name="Netty3Heart" />
         <module name="Netty5" />
+        <module name="Netty5Heart" />
+        <module name="Protocol" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="HelloWorldNetty" target="1.8" />
+      <module name="Netty3Heart" target="1.8" />
       <module name="Netty5" target="1.8" />
+      <module name="Netty5Heart" target="1.8" />
       <module name="NettyBasisAndPromote" target="1.8" />
+      <module name="Protocol" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

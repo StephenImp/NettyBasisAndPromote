@@ -1,0 +1,22 @@
+option java_package = "com.cn.proto";
+option_java_outer_classname = "PlayerModule";
+
+message PBPlayer{
+
+	required int64 playerId = 1;
+	
+	required int32 age = 2;
+	
+	required string name = 3;
+	
+	repeated int32 skills = 4;
+
+}
+
+message PBResource{
+
+	required int64 gold = 1；
+	
+	required int32 ebergy = 2;
+
+}
