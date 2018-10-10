@@ -14,6 +14,8 @@
       <module>Netty3Heart</module>
       <module>Netty5Heart</module>
       <module>Protocol</module>
+    <module>Serial</module>
+      <module>USDPacPro</module>
   </modules>
 
   <name>netty</name>
