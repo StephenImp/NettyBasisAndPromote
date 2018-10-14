@@ -16,6 +16,8 @@
       <module>Protocol</module>
     <module>Serial</module>
       <module>USDPacPro</module>
+      <module>NettyPromote</module>
+      <module>ChatRoom</module>
   </modules>
 
   <name>netty</name>
