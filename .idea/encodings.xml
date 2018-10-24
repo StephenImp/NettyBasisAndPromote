@@ -2,12 +2,31 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatCommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatCommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatClient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatCommon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatServer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HelloWorldNetty" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/HelloWorldNetty/src/main/java/com/cn/readme.txt" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/Netty3Heart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Netty5" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Netty5Heart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NettyPromote" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Protocol" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Serial" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/USDPacPro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/USDPacPro/Client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/USDPacPro/Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/USDPacPro/Server" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

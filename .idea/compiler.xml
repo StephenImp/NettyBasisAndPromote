@@ -7,19 +7,43 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="HelloWorldNetty" />
+        <module name="netty3chatclient" />
+        <module name="netty3chatcommon" />
+        <module name="netty3chatserver" />
         <module name="Netty3Heart" />
+        <module name="netty4chatclient" />
+        <module name="netty4chatcommon" />
+        <module name="netty4chatserver" />
         <module name="Netty5" />
         <module name="Netty5Heart" />
+        <module name="nettypromote" />
+        <module name="protobufchatclient" />
+        <module name="protobufchatcommon" />
+        <module name="protobufchatserver" />
         <module name="Protocol" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="HelloWorldNetty" target="1.8" />
-      <module name="Netty3Heart" target="1.8" />
-      <module name="Netty5" target="1.8" />
-      <module name="Netty5Heart" target="1.8" />
-      <module name="NettyBasisAndPromote" target="1.8" />
-      <module name="Protocol" target="1.8" />
+      <module name="chatroom" target="1.7" />
+      <module name="HelloWorldNetty" target="1.7" />
+      <module name="netty3chatclient" target="1.7" />
+      <module name="netty3chatcommon" target="1.7" />
+      <module name="netty3chatroom" target="1.7" />
+      <module name="netty3chatserver" target="1.7" />
+      <module name="Netty3Heart" target="1.7" />
+      <module name="netty4chatclient" target="1.7" />
+      <module name="netty4chatcommon" target="1.7" />
+      <module name="netty4chatroom" target="1.7" />
+      <module name="netty4chatserver" target="1.7" />
+      <module name="Netty5" target="1.7" />
+      <module name="Netty5Heart" target="1.7" />
+      <module name="NettyBasisAndPromote" target="1.7" />
+      <module name="nettypromote" target="1.7" />
+      <module name="protobufchatclient" target="1.7" />
+      <module name="protobufchatcommon" target="1.7" />
+      <module name="protobufchatroom" target="1.7" />
+      <module name="protobufchatserver" target="1.7" />
+      <module name="Protocol" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -8,6 +8,20 @@
       <module fileurl="file://$PROJECT_DIR$/Netty5Heart/Netty5Heart.iml" filepath="$PROJECT_DIR$/Netty5Heart/Netty5Heart.iml" />
       <module fileurl="file://$PROJECT_DIR$/NettyBasisAndPromote.iml" filepath="$PROJECT_DIR$/NettyBasisAndPromote.iml" />
       <module fileurl="file://$PROJECT_DIR$/Protocol/Protocol.iml" filepath="$PROJECT_DIR$/Protocol/Protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/chatroom.iml" filepath="$PROJECT_DIR$/ChatRoom/chatroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatClient/netty3chatclient.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatClient/netty3chatclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatCommon/netty3chatcommon.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatCommon/netty3chatcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/netty3chatroom.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/netty3chatroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatServer/netty3chatserver.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatServer/netty3chatserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatClient/netty4chatclient.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatClient/netty4chatclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatCommon/netty4chatcommon.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatCommon/netty4chatcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/netty4chatroom.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/netty4chatroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatServer/netty4chatserver.iml" filepath="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatServer/netty4chatserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NettyPromote/nettypromote.iml" filepath="$PROJECT_DIR$/NettyPromote/nettypromote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatClient/protobufchatclient.iml" filepath="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatClient/protobufchatclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatCommon/protobufchatcommon.iml" filepath="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatCommon/protobufchatcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/protobufchatroom.iml" filepath="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/protobufchatroom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatServer/protobufchatserver.iml" filepath="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatServer/protobufchatserver.iml" />
     </modules>
   </component>
 </project>
