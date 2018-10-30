@@ -27,6 +27,10 @@ public class SessionManager {
 	 */
 	public static boolean putSession(long playerId, Session session){
 		if(!onlineSessions.containsKey(playerId)){
+			/**
+			 * put在放入数据时，如果放入数据的key已经存在与Map中，最后放入的数据会覆盖之前存在的数据，
+			   putIfAbsent在放入数据时，如果存在重复的key，那么putIfAbsent不会放入值。
+			 */
 			boolean success = onlineSessions.putIfAbsent(playerId, session)== null? true : false;
 			return success;
 		}

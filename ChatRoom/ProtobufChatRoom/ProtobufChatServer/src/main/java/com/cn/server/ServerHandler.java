@@ -49,6 +49,7 @@ public class ServerHandler extends SimpleChannelHandler {
 		
 		//获取命令执行器
 		Invoker invoker = InvokerHoler.getInvoker(request.getModule(), request.getCmd());
+
 		if(invoker != null){
 			try {
 				Result<?> result = null;

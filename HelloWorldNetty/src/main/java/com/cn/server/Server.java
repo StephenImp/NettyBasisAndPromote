@@ -22,9 +22,9 @@ public class Server {
 		ServerBootstrap bootstrap = new ServerBootstrap();
 
 		/**
-		 * 一个线程分配一个selector
-		 * boss selector 负责监听端口
-		 * worker selector 负责channel的读写任务
+		 * 一个线程分配一个ServerSocketChannel
+		 * boss ServerSocketChannel(eventLoop+selector) 负责监听端口
+		 * worker ServerSocketChannel(eventLoop+selector) 负责channel的读写任务
 		 */
 		//boss线程监听端口，worker线程负责数据读写
 		ExecutorService boss = Executors.newCachedThreadPool();

@@ -14,13 +14,13 @@ import com.cn.common.core.model.Request;
  * |  包头	|  模块号      |  命令号    |   长度     |   数据       |
  * +——----——+——-----——+——----——+——----——+——-----——+
  * </pre>
- * @author -琴兽-
- *
  */
 public class RequestEncoder extends OneToOneEncoder{
 
 	@Override
 	protected Object encode(ChannelHandlerContext ctx, Channel channel, Object msg) throws Exception {
+
+		System.out.println("将发送消息的封装到数据包中");
 
 		Request message = (Request)msg;
 		

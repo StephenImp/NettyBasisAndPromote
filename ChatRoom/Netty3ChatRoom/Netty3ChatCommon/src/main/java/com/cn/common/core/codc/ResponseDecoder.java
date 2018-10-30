@@ -25,7 +25,12 @@ public class ResponseDecoder extends FrameDecoder{
 
 	@Override
 	protected Object decode(ChannelHandlerContext ctx, Channel channel, ChannelBuffer buffer) throws Exception {
+
+
 		if(buffer.readableBytes() >= BASE_LENTH){
+
+			System.out.println("当buf中可读字节长度大于数据包长度开始读");
+
 			//第一个可读数据包的起始位置
 			int beginIndex;
 			

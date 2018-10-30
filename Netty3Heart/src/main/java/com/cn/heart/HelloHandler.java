@@ -18,6 +18,7 @@ public class HelloHandler extends SimpleChannelHandler {
 
 	@Override
 	public void handleUpstream(final ChannelHandlerContext ctx, ChannelEvent e) throws Exception {
+
 		if (e instanceof IdleStateEvent) {
 
 //			IdleStateEvent event = (IdleStateEvent)e;

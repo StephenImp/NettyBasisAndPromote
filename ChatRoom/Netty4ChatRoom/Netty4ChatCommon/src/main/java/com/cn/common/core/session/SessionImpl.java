@@ -1,6 +1,7 @@
 package com.cn.common.core.session;
 
 import io.netty.channel.Channel;
+import io.netty.util.Attribute;
 import io.netty.util.AttributeKey;
 
 /**

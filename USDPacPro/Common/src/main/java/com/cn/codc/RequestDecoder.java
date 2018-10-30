@@ -36,6 +36,7 @@ public class RequestDecoder extends FrameDecoder{
 		if(buffer.readableBytes() >= BASE_LENTH){
 			//防止socket字节流攻击
 			if(buffer.readableBytes() > 2048){
+				//将当前readerIndex增加此缓冲区中的指定长度。
 				buffer.skipBytes(buffer.readableBytes());
 			}
 			
@@ -43,18 +44,24 @@ public class RequestDecoder extends FrameDecoder{
 			int beginReader;
 			
 			while(true){
+
+				//返回此缓冲区的readerIndex。
 				beginReader = buffer.readerIndex();
+				//标记此缓冲区中的当前readerIndex。
 				buffer.markReaderIndex();
 				if(buffer.readInt() == ConstantValue.FLAG){
 					break;
 				}
 				
 				//未读到包头，略过一个字节
+				//将当前readerIndex重新定位到此缓冲区中标记的readerIndex。
 				buffer.resetReaderIndex();
 				buffer.readByte();
 				
 				//长度又变得不满足
+				//返回等于（this.writerIndex - this.readerIndex）的可读字节数。
 				if(buffer.readableBytes() < BASE_LENTH){
+					//数据包不完整，需要等待后面的包来
 					return null;
 				}
 			}

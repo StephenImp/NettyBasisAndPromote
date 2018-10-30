@@ -21,7 +21,7 @@ public class Client {
 
 	public static void main(String[] args) {
 		
-		//服务类
+		//客户端服务类
 		ClientBootstrap bootstrap = new  ClientBootstrap();
 		
 		//线程池

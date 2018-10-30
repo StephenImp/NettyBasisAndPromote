@@ -14,8 +14,6 @@ import com.cn.common.module.player.response.PlayerResponse;
 import com.cn.server.module.player.service.PlayerService;
 /**
  * 玩家模块
- * @author -琴兽-
- *
  */
 @Component
 public class PlayerHandlerImpl implements PlayerHandler{
