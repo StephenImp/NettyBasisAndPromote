@@ -4,15 +4,34 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/USDPacPro/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatClient/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty3ChatRoom/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatClient/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/Netty4ChatRoom/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatClient/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatCommon/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatServer/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/ProtobufChatRoom/pom.xml" />
+        <option value="$PROJECT_DIR$/ChatRoom/pom.xml" />
+        <option value="$PROJECT_DIR$/HelloWorldNetty/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty3Heart/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty5/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty5Heart/pom.xml" />
+        <option value="$PROJECT_DIR$/NettyPromote/pom.xml" />
+        <option value="$PROJECT_DIR$/Protocol/pom.xml" />
         <option value="$PROJECT_DIR$/Serial/pom.xml" />
         <option value="$PROJECT_DIR$/USDPacPro/Client/pom.xml" />
         <option value="$PROJECT_DIR$/USDPacPro/Common/pom.xml" />
         <option value="$PROJECT_DIR$/USDPacPro/Server/pom.xml" />
-        <option value="$PROJECT_DIR$/USDPacPro/pom.xml" />
       </set>
     </option>
   </component>

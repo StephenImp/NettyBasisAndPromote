@@ -1,28 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="HelloWorldNetty" />
-        <module name="netty3chatclient" />
-        <module name="netty3chatcommon" />
-        <module name="netty3chatserver" />
-        <module name="Netty3Heart" />
-        <module name="netty4chatclient" />
-        <module name="netty4chatcommon" />
-        <module name="netty4chatserver" />
-        <module name="Netty5" />
-        <module name="Netty5Heart" />
-        <module name="nettypromote" />
-        <module name="protobufchatclient" />
-        <module name="protobufchatcommon" />
-        <module name="protobufchatserver" />
-        <module name="Protocol" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chatroom" target="1.7" />
       <module name="HelloWorldNetty" target="1.7" />
@@ -44,6 +22,7 @@
       <module name="protobufchatroom" target="1.7" />
       <module name="protobufchatserver" target="1.7" />
       <module name="Protocol" target="1.7" />
+      <module name="usdpacpro" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

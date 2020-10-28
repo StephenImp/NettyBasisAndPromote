@@ -4,8 +4,35 @@
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Netty5/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatClient/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatServer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Netty3Heart/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatCommon/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Netty5Heart/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Serial/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HelloWorldNetty/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NettyPromote/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatClient/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatClient/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatServer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatServer/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatCommon/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatCommon/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HelloWorldNetty/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Protocol/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatServer/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatServer/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Netty3Heart/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Netty5Heart/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty3ChatRoom/Netty3ChatCommon/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Netty5/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatClient/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/NettyPromote/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatCommon/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/Netty4ChatRoom/Netty4ChatCommon/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Serial/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ChatRoom/ProtobufChatRoom/ProtobufChatClient/src/main/java" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
